@@ -1,8 +1,6 @@
 <a id="top"></a>
 
-# Тексти пісень: група прославлення
-
-## Зміст
+## Тексти пісень: Worship Słowo Wiary Kraków
 
 - [Святий навіки](#sviatyy-naviky)
 - [Великий Бог](#velykyy-boh)
