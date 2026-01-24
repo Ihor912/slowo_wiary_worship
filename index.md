@@ -1,4 +1,7 @@
 <a id="top"></a>
+<a href="#top" style="position: fixed; bottom: 16px; right: 16px; z-index: 1000; display: inline-block; padding: 8px 12px; background: #1f2937; color: #ffffff; text-decoration: none; border-radius: 6px; font-size: 14px;">
+Вгору
+</a>
 
 ## Тексти пісень: Worship Słowo Wiary Kraków
 
