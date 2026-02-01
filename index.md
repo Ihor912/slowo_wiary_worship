@@ -47,7 +47,7 @@
 - [Хтось говорить, що Тебе нема (E)](#ty-blahyy-i-lyubov) <a href="https://youtu.be/JjNxlfsjOvc?si=oWIlXfM5lZ1v2gYN" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Ти знаєш, Боже, моє бажання (Em)](#ty-znayesh-bozhe) <a href="https://youtu.be/Im3qYdgLSgM?si=nCmyTg-zhiN5YvmK" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Ти моя сила у житті (E)](#ty-moya-syla) <a href="https://youtu.be/V03jZCtq-sg?si=LIG8QZWrWcAQmmta" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Ти обіймаєш мене (C)](#ty-obiymaesh-mene) <a href="https://youtu.be/dIQgVShGpxw?si=84LKKj_uNeDiJwUF" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Ти мене обійняв (C)](#ty-obiymaesh-mene) <a href="https://youtu.be/dIQgVShGpxw?si=84LKKj_uNeDiJwUF" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Той Бог, що море навіть розділив (D)](#toy-boh-shcho-more) <a href="https://youtu.be/MEt7MNaHXqE?si=Rw5UEc_hA1t_dA9A" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Хай же зійде (С)](#khay-zhe-ziyde) <a href="https://youtu.be/nkQYBNgOVVA?si=HvcPkxrwZaBLNBrD" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Чи є такий як Бог (E)](#chy-ye-takyy) <a href="https://youtu.be/ZwTfmk3B-n8?si=Zi092wwndcnmaHZg" target="_blank" rel="noopener noreferrer">▶️</a>
@@ -1944,7 +1944,7 @@ _Приспів:_
 
 ---
 
-## <a id="ty-obiymaesh-mene"></a>**Ти обіймаєш мене (C)** <a href="https://youtu.be/dIQgVShGpxw?si=84LKKj_uNeDiJwUF" target="_blank" rel="noopener noreferrer">▶️</a>
+## <a id="ty-obiymaesh-mene"></a>**Ти мене обійняв (C)** <a href="https://youtu.be/dIQgVShGpxw?si=84LKKj_uNeDiJwUF" target="_blank" rel="noopener noreferrer">▶️</a>
 
 **Ти обіймаєш мене у caмoму coбi,**  
 **Пpocтягнув Свoю Tи pуку,**  
