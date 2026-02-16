@@ -37,7 +37,7 @@
 - [Отче наш, що живеш на небі (Hm)](#otche-nash-shcho-zhyvesh) <a href="https://youtu.be/mFQ63hHiijk?si=p0OSLUzRzD5q4Ye1" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Очисти мене (Hm)](#ochysty-mene) <a href="https://youtu.be/-X52AO5WRhc?si=W3NrT9Og5kcYVtcU" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Поринаю я в океан Святого духа (F#m)](#porynаyu-ya-v-okean) <a href="https://youtu.be/0hj5uKPWPh4?si=Jfk9jB3Irj85XGU5" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Провадиш (D)](#provadysh) <a href="https://youtu.be/LTmYzIBiPs8?si=1cxV8uvWg3hXVaTw" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Провадиш (A)](#provadysh) <a href="https://youtu.be/LTmYzIBiPs8?si=1cxV8uvWg3hXVaTw" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Псалом 46 (?)](#psalm-46) <a href="https://youtu.be/nveRNAkRvEI?si=LX4fOyqkwvkDk1Uk" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Святий навіки (G)](#sviatyy-naviky) <a href="https://youtu.be/vQJUWKxYuUU?si=eoeo29_NIsTHShei" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Такий великий Бог (F#m)](#takyy-velykyy-boh) <a href="https://youtu.be/02kXZIynlvc?si=mQjveRT681xf9ELH" target="_blank" rel="noopener noreferrer">▶️</a>
@@ -1124,7 +1124,7 @@ _Приспів:_
 
 ---
 
-## <a id="provadysh"></a>**Провадиш (D)** <a href="https://youtu.be/LTmYzIBiPs8?si=1cxV8uvWg3hXVaTw" target="_blank" rel="noopener noreferrer">▶️</a>
+## <a id="provadysh"></a>**Провадиш (A)** <a href="https://youtu.be/LTmYzIBiPs8?si=1cxV8uvWg3hXVaTw" target="_blank" rel="noopener noreferrer">▶️</a>
 
 **Tи є тут прocтo ceрeд нac**  
 **Tвoє Iм'я прocлaвлю я.**  
