@@ -7,12 +7,12 @@
 
 ### Поклоніння
 
-- [Благословіння (E)](#blahoslovinnya) <a href="https://www.youtube.com/watch?v=RlZf7OTOr5A&list=RDRlZf7OTOr5A" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Божа доброта (C)](#bozha-dobrota) <a href="https://www.youtube.com/watch?v=n0FBb6hnwTo" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Боже єдиний нашу країну тримай (G)](#bozhe-yedynyy-nashu) <a href="https://www.youtube.com/watch?v=90l3bZug2lY&list=RD90l3bZug2lY" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Ввійду я в Святеє Святих (Em)](#vviydu-ya-v) <a href="https://www.youtube.com/watch?v=myjFfduVQLY&list=RDmyjFfduVQLY" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Вдячність (А)](#vdyachnist) <a href="https://www.youtube.com/watch?v=dQdfs5S6jyA&list=RDdQdfs5S6jyA" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Великий наш Бог (G)](#velykyy-nash-boh) <a href="https://www.youtube.com/watch?v=vg5qDljEw7Q" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Благословіння (E) Ж](#blahoslovinnya) <a href="https://www.youtube.com/watch?v=RlZf7OTOr5A&list=RDRlZf7OTOr5A" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Божа доброта (C) Ч](#bozha-dobrota) <a href="https://www.youtube.com/watch?v=n0FBb6hnwTo" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Боже єдиний нашу країну тримай (G) Ч](#bozhe-yedynyy-nashu) <a href="https://www.youtube.com/watch?v=90l3bZug2lY&list=RD90l3bZug2lY" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Ввійду я в Святеє Святих (Em) Ж](#vviydu-ya-v) <a href="https://www.youtube.com/watch?v=myjFfduVQLY&list=RDmyjFfduVQLY" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Вдячність (А) Ч](#vdyachnist) <a href="https://www.youtube.com/watch?v=dQdfs5S6jyA&list=RDdQdfs5S6jyA" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Великий наш Бог (G) ЖЧ](#velykyy-nash-boh) <a href="https://www.youtube.com/watch?v=vg5qDljEw7Q" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Свіжий вітер (А)](#vitru-shum) <a href="https://www.youtube.com/watch?v=TcLVeDpfjqs&list=RDTcLVeDpfjqs" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Вкрий мене своїм крилом (C)](#vkryy-mene-svoyim) <a href="https://www.youtube.com/watch?v=0ekN5YbfIFc&list=RD0ekN5YbfIFc" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Все віддам я для Ісуса (D)](#vse-viddam-ya) <a href="https://www.youtube.com/watch?v=xUBrxRFYUVY&list=RDxUBrxRFYUVY" target="_blank" rel="noopener noreferrer">▶️</a>
