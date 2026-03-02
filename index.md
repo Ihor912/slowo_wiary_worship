@@ -13,81 +13,81 @@
 - [Ввійду я в Святеє Святих (Em) Ж](#vviydu-ya-v) <a href="https://www.youtube.com/watch?v=myjFfduVQLY&list=RDmyjFfduVQLY" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Вдячність (А) Ч](#vdyachnist) <a href="https://www.youtube.com/watch?v=dQdfs5S6jyA&list=RDdQdfs5S6jyA" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Великий наш Бог (G) ЖЧ](#velykyy-nash-boh) <a href="https://www.youtube.com/watch?v=vg5qDljEw7Q" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Свіжий вітер (А)](#vitru-shum) <a href="https://www.youtube.com/watch?v=TcLVeDpfjqs&list=RDTcLVeDpfjqs" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Вкрий мене своїм крилом (C)](#vkryy-mene-svoyim) <a href="https://www.youtube.com/watch?v=0ekN5YbfIFc&list=RD0ekN5YbfIFc" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Все віддам я для Ісуса (D)](#vse-viddam-ya) <a href="https://www.youtube.com/watch?v=xUBrxRFYUVY&list=RDxUBrxRFYUVY" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Гідний слави Ти, Ісус (G)](#hidnyy-slavy-ty) <a href="https://www.youtube.com/watch?v=bXCDSQ7H0tY&list=RDbXCDSQ7H0tY" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Господи, як дивно (Em)](#hospody-yak-dyvno) <a href="https://youtu.be/jOXMVdrzso0?si=TgW7bkvQdz6exgHX" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Господь, я славлю Тебе (Em)](#hospod-ya-slavlyu) <a href="https://youtu.be/IDstAlPvv6A?si=wFUeNm-w2amcPxhe" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Дивні та великі діла Твої (Dm)](#dyvni-ta-velyky) <a href="https://youtu.be/PvCAhEpo2GQ?si=JXfes4FARvhbyJyJ" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Достойний (Em ?)](#dostoyniy) <a href="https://youtu.be/9I3VcyWIYM4?si=EdxEe2jsC34oba21" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Достойний Ти хвали (Е)](#dostoyniy-ty-khvaly) <a href="https://youtu.be/-hLIOlUt7rQ?si=vnEdVOFi_qR3V9YX" target="_blank" rel="noopener noreferrer">▶️</a><a href="https://youtu.be/AIGV3ms_9eM?si=-6qlRkdiQEMnZG9_" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Єшуа (?)](#yeshua) <a href="https://youtu.be/FsbC1eTWJpM?si=k0E8_zDQsTPcYrYX" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Ісусе Спаситель (С)](#isuse-spasytel) <a href="https://youtu.be/5_aIauL2xKA?si=RFs3cTck56c5I_0T" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Любов Твоя Боже (A)](#lyubov-tvoya-bozhe) <a href="https://youtu.be/KuihFVZ9mbU?si=dvGKl9rw0uGgcT0q" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Ми прийшли сьогодні у святий Твій дім (D)](#my-pryyshly-sohodni) <a href="https://youtu.be/V-P96eQMjSA?si=oEAtfq0txX9UzKHu" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Муж скорбот (Em)](#muzh-skorbot) <a href="https://youtu.be/byNV2gGCqP8?si=tTheUSW-JK2FGjJ9" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Нагороди (?)](#nahorody) <a href="https://youtu.be/1xTXIOGWFFw?si=Pqwn0j2b2vSfL40f" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Одного прошу (А або H)](#odnoho-proshu) <a href="https://youtu.be/LMQMssdKjEw?si=Ag1BRsk_EmpilC7E" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Океани (Hm)](#okeany) <a href="https://youtu.be/OP-00EwLdiU?si=fgUNH-ylkSaI8ahN" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Осанна (C#m)](#osanna) <a href="https://youtu.be/qke8fgYdHuU?si=BCQK0klrXnA7Z3Dd" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Ось я, щоб схилитись (Е)](#os-ya-shchob) <a href="https://youtu.be/2JhG4iaQjeo?si=OB4nyfGA9yV6102C" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Отець мій, я обожнюю (Em)](#otets-miy-ya-obozhnyuyu) <a href="https://youtu.be/546wwb9vB_c?si=tLQj7iMrawJ491ys" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Отче наш Сущий на небесах (Dm)](#otche-nash-sushchyy) <a href="https://youtu.be/4bDzRq67aD8?si=4kSqybaUTuBSu3Bl" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Отче наш, що живеш на небі (Hm)](#otche-nash-shcho-zhyvesh) <a href="https://youtu.be/mFQ63hHiijk?si=p0OSLUzRzD5q4Ye1" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Очисти мене (Hm)](#ochysty-mene) <a href="https://youtu.be/-X52AO5WRhc?si=W3NrT9Og5kcYVtcU" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Поринаю я в океан Святого духа (F#m)](#porynаyu-ya-v-okean) <a href="https://youtu.be/0hj5uKPWPh4?si=Jfk9jB3Irj85XGU5" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Провадиш (D)](#provadysh) <a href="https://youtu.be/LTmYzIBiPs8?si=1cxV8uvWg3hXVaTw" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Псалом 46 (?)](#psalm-46) <a href="https://youtu.be/nveRNAkRvEI?si=LX4fOyqkwvkDk1Uk" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Святий навіки (G)](#sviatyy-naviky) <a href="https://youtu.be/vQJUWKxYuUU?si=eoeo29_NIsTHShei" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Такий великий Бог (F#m)](#takyy-velykyy-boh) <a href="https://youtu.be/02kXZIynlvc?si=mQjveRT681xf9ELH" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Твоє ім'я прекрасне, Бог (D)](#tvoye-imya-prekrasne) <a href="https://youtu.be/c05LCq5B0yQ?si=VJmsMfuY3PH2VyAX" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Твоєю милістю (Hm)](#tvoyeyu-mylistyu) <a href="https://youtu.be/9LVVclnUHhs?si=aIkk9Jif3_2aJuR6" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Твоя любов немов ріка (Е)](#tvoya-lyubov-nemov) <a href="https://youtu.be/66CPCn89TNc?si=ZrvdMm_Jpg3Iq2T-" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Хтось говорить, що Тебе нема (E)](#ty-blahyy-i-lyubov) <a href="https://youtu.be/JjNxlfsjOvc?si=oWIlXfM5lZ1v2gYN" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Ти знаєш, Боже, моє бажання (Em)](#ty-znayesh-bozhe) <a href="https://youtu.be/Im3qYdgLSgM?si=nCmyTg-zhiN5YvmK" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Ти моя сила у житті (E)](#ty-moya-syla) <a href="https://youtu.be/V03jZCtq-sg?si=LIG8QZWrWcAQmmta" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Ти мене обійняв (C)](#ty-obiymaesh-mene) <a href="https://youtu.be/dIQgVShGpxw?si=84LKKj_uNeDiJwUF" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Той Бог, що море навіть розділив (D)](#toy-boh-shcho-more) <a href="https://youtu.be/MEt7MNaHXqE?si=Rw5UEc_hA1t_dA9A" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Хай же зійде (С)](#khay-zhe-ziyde) <a href="https://youtu.be/nkQYBNgOVVA?si=HvcPkxrwZaBLNBrD" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Чи є такий як Бог (E)](#chy-ye-takyy) <a href="https://youtu.be/ZwTfmk3B-n8?si=Zi092wwndcnmaHZg" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Шумні води (Em)](#shumni-vody) <a href="https://youtu.be/XS05lGXtTFE?si=VRH0QqqX9sR2HlKn" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Що провину може змить (Е)](#shcho-provynu-mozhe) <a href="https://youtu.be/0_tZNZeNM2Q?si=W0ezS8VgauW7zFTq" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Я благословлю Господа (Em)](#ya-blahoslovlyu-hospoda) <a href="https://youtu.be/D-Gc1d59pwA?si=IZ9Z-S7FK2yypSui" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Я буду радіти (Em)](#ya-budu-radity) <a href="https://youtu.be/7kqaYVU60c8?si=nuIO9LyXX5gSRSYf" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Яхве (А#m)](#yakhve) <a href="https://youtu.be/iTM-FdvXHKE?si=m4AKvOE_Y8-hi2bR" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Свіжий вітер (D) Ж](#vitru-shum) <a href="https://www.youtube.com/watch?v=TcLVeDpfjqs&list=RDTcLVeDpfjqs" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Вкрий мене своїм крилом (C) ЖЧ](#vkryy-mene-svoyim) <a href="https://www.youtube.com/watch?v=0ekN5YbfIFc&list=RD0ekN5YbfIFc" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Все віддам я для Ісуса (D) ЖЧ](#vse-viddam-ya) <a href="https://www.youtube.com/watch?v=xUBrxRFYUVY&list=RDxUBrxRFYUVY" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Гідний слави Ти, Ісус (D) Ж](#hidnyy-slavy-ty) <a href="https://www.youtube.com/watch?v=bXCDSQ7H0tY&list=RDbXCDSQ7H0tY" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Господи, як дивно (Em) Ч](#hospody-yak-dyvno) <a href="https://youtu.be/jOXMVdrzso0?si=TgW7bkvQdz6exgHX" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Господь, я славлю Тебе (Em) ЖЧ](#hospod-ya-slavlyu) <a href="https://youtu.be/IDstAlPvv6A?si=wFUeNm-w2amcPxhe" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Дивні та великі діла Твої (Dm) Ж](#dyvni-ta-velyky) <a href="https://youtu.be/PvCAhEpo2GQ?si=JXfes4FARvhbyJyJ" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Достойний (Em ?) Ж](#dostoyniy) <a href="https://youtu.be/9I3VcyWIYM4?si=EdxEe2jsC34oba21" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Достойний Ти хвали (Е) Ж](#dostoyniy-ty-khvaly) <a href="https://youtu.be/-hLIOlUt7rQ?si=vnEdVOFi_qR3V9YX" target="_blank" rel="noopener noreferrer">▶️</a><a href="https://youtu.be/AIGV3ms_9eM?si=-6qlRkdiQEMnZG9_" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Єшуа (?) ?](#yeshua) <a href="https://youtu.be/FsbC1eTWJpM?si=k0E8_zDQsTPcYrYX" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Ісусе Спаситель (С) ЖЧ](#isuse-spasytel) <a href="https://youtu.be/5_aIauL2xKA?si=RFs3cTck56c5I_0T" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Любов Твоя Боже (A) ЖЧ](#lyubov-tvoya-bozhe) <a href="https://youtu.be/KuihFVZ9mbU?si=dvGKl9rw0uGgcT0q" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Ми прийшли сьогодні у святий Твій дім (D) ЖЧ](#my-pryyshly-sohodni) <a href="https://youtu.be/V-P96eQMjSA?si=oEAtfq0txX9UzKHu" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Муж скорбот (Em) Ч](#muzh-skorbot) <a href="https://youtu.be/byNV2gGCqP8?si=tTheUSW-JK2FGjJ9" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Нагороди (?) ?](#nahorody) <a href="https://youtu.be/1xTXIOGWFFw?si=Pqwn0j2b2vSfL40f" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Одного прошу (А або H) Ч](#odnoho-proshu) <a href="https://youtu.be/LMQMssdKjEw?si=Ag1BRsk_EmpilC7E" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Океани (Hm) Ж](#okeany) <a href="https://youtu.be/OP-00EwLdiU?si=fgUNH-ylkSaI8ahN" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Осанна (C#m) Ж](#osanna) <a href="https://youtu.be/qke8fgYdHuU?si=BCQK0klrXnA7Z3Dd" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Ось я, щоб схилитись (Е) Ж](#os-ya-shchob) <a href="https://youtu.be/2JhG4iaQjeo?si=OB4nyfGA9yV6102C" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Отець мій, я обожнюю (Em) ЖЧ](#otets-miy-ya-obozhnyuyu) <a href="https://youtu.be/546wwb9vB_c?si=tLQj7iMrawJ491ys" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Отче наш Сущий на небесах (Dm) Ж](#otche-nash-sushchyy) <a href="https://youtu.be/4bDzRq67aD8?si=4kSqybaUTuBSu3Bl" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Отче наш, що живеш на небі (Hm) Ж](#otche-nash-shcho-zhyvesh) <a href="https://youtu.be/mFQ63hHiijk?si=p0OSLUzRzD5q4Ye1" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Очисти мене (Hm) Ж](#ochysty-mene) <a href="https://youtu.be/-X52AO5WRhc?si=W3NrT9Og5kcYVtcU" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Поринаю я в океан Святого духа (F#m) Ж](#porynаyu-ya-v-okean) <a href="https://youtu.be/0hj5uKPWPh4?si=Jfk9jB3Irj85XGU5" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Провадиш (D) Ж](#provadysh) <a href="https://youtu.be/LTmYzIBiPs8?si=1cxV8uvWg3hXVaTw" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Псалом 46 (?) ?](#psalm-46) <a href="https://youtu.be/nveRNAkRvEI?si=LX4fOyqkwvkDk1Uk" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Святий навіки (G) Ж](#sviatyy-naviky) <a href="https://youtu.be/vQJUWKxYuUU?si=eoeo29_NIsTHShei" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Такий великий Бог (F#m) Ж](#takyy-velykyy-boh) <a href="https://youtu.be/02kXZIynlvc?si=mQjveRT681xf9ELH" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Твоє ім'я прекрасне, Бог (D) Ж](#tvoye-imya-prekrasne) <a href="https://youtu.be/c05LCq5B0yQ?si=VJmsMfuY3PH2VyAX" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Твоєю милістю (Hm) Ж](#tvoyeyu-mylistyu) <a href="https://youtu.be/9LVVclnUHhs?si=aIkk9Jif3_2aJuR6" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Твоя любов немов ріка (Е) ЖЧ](#tvoya-lyubov-nemov) <a href="https://youtu.be/66CPCn89TNc?si=ZrvdMm_Jpg3Iq2T-" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Хтось говорить, що Тебе нема (E) Ч](#ty-blahyy-i-lyubov) <a href="https://youtu.be/JjNxlfsjOvc?si=oWIlXfM5lZ1v2gYN" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Ти знаєш, Боже, моє бажання (Em) ЖЧ](#ty-znayesh-bozhe) <a href="https://youtu.be/Im3qYdgLSgM?si=nCmyTg-zhiN5YvmK" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Ти моя сила у житті (E) ЖЧ](#ty-moya-syla) <a href="https://youtu.be/V03jZCtq-sg?si=LIG8QZWrWcAQmmta" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Ти мене обійняв (C) ЖЧ](#ty-obiymaesh-mene) <a href="https://youtu.be/dIQgVShGpxw?si=84LKKj_uNeDiJwUF" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Той Бог, що море навіть розділив (D) Ч](#toy-boh-shcho-more) <a href="https://youtu.be/MEt7MNaHXqE?si=Rw5UEc_hA1t_dA9A" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Хай же зійде (С) Ж](#khay-zhe-ziyde) <a href="https://youtu.be/nkQYBNgOVVA?si=HvcPkxrwZaBLNBrD" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Чи є такий як Бог (E) Ж](#chy-ye-takyy) <a href="https://youtu.be/ZwTfmk3B-n8?si=Zi092wwndcnmaHZg" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Шумні води (Em) ЖЧ](#shumni-vody) <a href="https://youtu.be/XS05lGXtTFE?si=VRH0QqqX9sR2HlKn" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Що провину може змить (Е) ЖЧ](#shcho-provynu-mozhe) <a href="https://youtu.be/0_tZNZeNM2Q?si=W0ezS8VgauW7zFTq" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Я благословлю Господа (Em) Ж](#ya-blahoslovlyu-hospoda) <a href="https://youtu.be/D-Gc1d59pwA?si=IZ9Z-S7FK2yypSui" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Я буду радіти (Em) ЖЧ](#ya-budu-radity) <a href="https://youtu.be/7kqaYVU60c8?si=nuIO9LyXX5gSRSYf" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Яхве (А#m) Ж](#yakhve) <a href="https://youtu.be/iTM-FdvXHKE?si=m4AKvOE_Y8-hi2bR" target="_blank" rel="noopener noreferrer">▶️</a>
 
 ### Хвала
 
-- [Будь прославлений (А)](#bud-proslavlenyy) <a href="https://youtu.be/a8JT87_wZaU?si=GzexhDtN9M41q_FM" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Бог прийшов померти за мій гріх (Dm)](#boh-pryyshov-pomerty) <a href="https://youtu.be/O1HnN5Uu4rI?si=vuR3QdbfzftrHQok" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Великий Бог (А)](#velykyy-boh) <a href="https://youtu.be/sFA4i4ZKLGo?si=NlgqbUxsbWGFk41b" target="_blank" rel="noopener noreferrer">▶️</a>
-- [В імя Ісуса (D)](#v-imya-isusa) <a href="https://youtu.be/TVsRM55_jsE?si=nJLATxTmVIJNTED5" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Вся хвала для Господа (F)](#vsya-khvala-dlya) <a href="https://youtu.be/QxBnEtQRjPs?si=DB0Zx2jE2TuN3Run" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Давайте візьмемось за руки (G)](#davayte-vizmemos) <a href="https://youtu.be/2HtAS2rVK3Y?si=E2qIqrApgRZFxK-7" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Дякуйте Господу (G)](#dyakuyte-hospodu) <a href="https://youtu.be/aePaSA8rSS4?si=1ikPhGXgoU7js5Ks" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Єгипет (Dm)](#yehypet) <a href="https://youtu.be/EHZlHI3et7w?si=VUABDNxnN9kvIYPd" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Життя не життя (Em)](#zhyttya-ne-zhyttya) <a href="https://youtu.be/gbGKGycPQiI?si=D_Mv3EkPrK8sEAO-" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Ісус Ти переміг (А)](#isus-ty-peremih) <a href="https://youtu.be/AOp4a5s0Ppg?si=ECAgiZsgFxB6qBkO" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Його ім'я Ісус (Am)](#yoho-imya-isus) <a href="https://youtu.be/1BoAaaZUOpw?si=e21EITk_EFcWcbt9" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Кожен день на устах моїх (G)](#kozhen-den-na-ustakh) <a href="https://youtu.be/aspVEt6sRiQ?si=6lbsa1RMsiljYQ5E" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Коли Дух Господній наповняє мене (Em)](#koly-dukh-hospodniy) <a href="https://youtu.be/zFcTTDRxyUw?si=uvHhd3IuWqqw03Ao" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Кров Христа (Е)](#krov-khrysta) <a href="https://youtu.be/x_HU1KVKuBU?si=uCCMUg2UFSjuu4wY" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Ми Його діти (E)](#my-yoho-dity) <a href="https://youtu.be/FIYOKwQXh7k?si=gKUJTtBD5rj3p-9M" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Мій Бог великий (F)](#miy-boh-velykyy) <a href="https://youtu.be/f62MCrxGwi8?si=CX7NpwCy3SeDcE7m" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Мій Бог моя надія (F)](#miy-boh-moya-nadiya) <a href="https://youtu.be/DwmjxVEXpLE?si=lUtzUmSmeKvzpwui" target="_blank" rel="noopener noreferrer">▶️</a>
-- [На троні слави (F)](#na-troni-slavy) <a href="https://youtu.be/RhWT8zpj64k?si=uwQA83g9m8KuGlof" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Наш Бог (Em)](#nash-boh) <a href="https://youtu.be/NJpt1hSYf2o?si=SHF8Jp-3gAOrOpHM" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Не помру але буду (F#m)](#ne-pomru-ale) <a href="https://youtu.be/a4BbjAHP4ps?si=08v9kY3wV8UmL5TZ" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Подивись на Христа (A)](#podyvys-na-khrysta) <a href="https://youtu.be/4gBTK1Ra3G8?si=RRiioWAcGTPos1Ls" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Потрібен мені Ти (G)](#potriben-meni-ty) <a href="https://youtu.be/AVCHgFoj9iE?si=qJTIy3c8Og-7Jumi" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Скоро скоро вже (E)](#skoro-skoro-vzhe) <a href="https://youtu.be/YPT7JMaMWOc?si=3rfg4osHQ0OF5r-J" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Слав душа Господа (С)](#slav-dusha-hospoda) <a href="https://youtu.be/SjZzcXIDZBY?si=7Ligmw1aWNFNVe7h" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Співаю Алілуя (D)](#spivayu-aliluya) <a href="https://youtu.be/4joUCMN870s?si=y0afrSPPeTGCu6OH" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Ті хто з Богом ідуть (Em)](#ti-khto-z-bohom) <a href="https://youtu.be/zE-2TA4q7LE?si=UXvxmTdZyx3GHUm5" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Хай буде ім'я Бога благословенне (?)](#khay-bude-imya-boha) <a href="https://youtu.be/YBRjv3afH4M?si=3FTSR99hMPLdBeZ6" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Цар воскреслий (G)](#tsar-voskreslyy) <a href="https://youtu.be/yjd-JPvyzGE?si=ooa7HjKqgBWJDQqF" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Чудова благодать (D)](#chudova-blahodat) <a href="https://youtu.be/4e-VvuSViiA?si=1uAOAxamUF-M-06_" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Будь прославлений (А) Ч](#bud-proslavlenyy) <a href="https://youtu.be/a8JT87_wZaU?si=GzexhDtN9M41q_FM" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Бог прийшов померти за мій гріх (Dm) Ж](#boh-pryyshov-pomerty) <a href="https://youtu.be/O1HnN5Uu4rI?si=vuR3QdbfzftrHQok" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Великий Бог (А) Ч](#velykyy-boh) <a href="https://youtu.be/sFA4i4ZKLGo?si=NlgqbUxsbWGFk41b" target="_blank" rel="noopener noreferrer">▶️</a>
+- [В імя Ісуса (D) Ж](#v-imya-isusa) <a href="https://youtu.be/TVsRM55_jsE?si=nJLATxTmVIJNTED5" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Вся хвала для Господа (F) ЖЧ](#vsya-khvala-dlya) <a href="https://youtu.be/QxBnEtQRjPs?si=DB0Zx2jE2TuN3Run" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Давайте візьмемось за руки (G) Ч](#davayte-vizmemos) <a href="https://youtu.be/2HtAS2rVK3Y?si=E2qIqrApgRZFxK-7" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Дякуйте Господу (G) Ч](#dyakuyte-hospodu) <a href="https://youtu.be/aePaSA8rSS4?si=1ikPhGXgoU7js5Ks" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Єгипет (Dm) Ч](#yehypet) <a href="https://youtu.be/EHZlHI3et7w?si=VUABDNxnN9kvIYPd" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Життя не життя (Em) Ч](#zhyttya-ne-zhyttya) <a href="https://youtu.be/gbGKGycPQiI?si=D_Mv3EkPrK8sEAO-" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Ісус Ти переміг (А) Ч](#isus-ty-peremih) <a href="https://youtu.be/AOp4a5s0Ppg?si=ECAgiZsgFxB6qBkO" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Його ім'я Ісус (Am) Ж](#yoho-imya-isus) <a href="https://youtu.be/1BoAaaZUOpw?si=e21EITk_EFcWcbt9" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Кожен день на устах моїх (G) Ч](#kozhen-den-na-ustakh) <a href="https://youtu.be/aspVEt6sRiQ?si=6lbsa1RMsiljYQ5E" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Коли Дух Господній наповняє мене (Em) Ч](#koly-dukh-hospodniy) <a href="https://youtu.be/zFcTTDRxyUw?si=uvHhd3IuWqqw03Ao" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Кров Христа (Е) Ж](#krov-khrysta) <a href="https://youtu.be/x_HU1KVKuBU?si=uCCMUg2UFSjuu4wY" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Ми Його діти (E) Ж](#my-yoho-dity) <a href="https://youtu.be/FIYOKwQXh7k?si=gKUJTtBD5rj3p-9M" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Мій Бог великий (F) ЖЧ](#miy-boh-velykyy) <a href="https://youtu.be/f62MCrxGwi8?si=CX7NpwCy3SeDcE7m" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Мій Бог моя надія (F) Ч](#miy-boh-moya-nadiya) <a href="https://youtu.be/DwmjxVEXpLE?si=lUtzUmSmeKvzpwui" target="_blank" rel="noopener noreferrer">▶️</a>
+- [На троні слави (F) Ч](#na-troni-slavy) <a href="https://youtu.be/RhWT8zpj64k?si=uwQA83g9m8KuGlof" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Наш Бог (Em) Ч](#nash-boh) <a href="https://youtu.be/NJpt1hSYf2o?si=SHF8Jp-3gAOrOpHM" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Не помру але буду (F#m) Ч](#ne-pomru-ale) <a href="https://youtu.be/a4BbjAHP4ps?si=08v9kY3wV8UmL5TZ" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Подивись на Христа (A) Ч](#podyvys-na-khrysta) <a href="https://youtu.be/4gBTK1Ra3G8?si=RRiioWAcGTPos1Ls" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Потрібен мені Ти (G) Ч](#potriben-meni-ty) <a href="https://youtu.be/AVCHgFoj9iE?si=qJTIy3c8Og-7Jumi" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Скоро скоро вже (E) Ж](#skoro-skoro-vzhe) <a href="https://youtu.be/YPT7JMaMWOc?si=3rfg4osHQ0OF5r-J" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Слав душа Господа (С) Ж](#slav-dusha-hospoda) <a href="https://youtu.be/SjZzcXIDZBY?si=7Ligmw1aWNFNVe7h" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Співаю Алілуя (D) Ж](#spivayu-aliluya) <a href="https://youtu.be/4joUCMN870s?si=y0afrSPPeTGCu6OH" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Ті хто з Богом ідуть (Em) Ч](#ti-khto-z-bohom) <a href="https://youtu.be/zE-2TA4q7LE?si=UXvxmTdZyx3GHUm5" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Хай буде ім'я Бога благословенне (?) ?](#khay-bude-imya-boha) <a href="https://youtu.be/YBRjv3afH4M?si=3FTSR99hMPLdBeZ6" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Цар воскреслий (G) Ж](#tsar-voskreslyy) <a href="https://youtu.be/yjd-JPvyzGE?si=ooa7HjKqgBWJDQqF" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Чудова благодать (D) Ж](#chudova-blahodat) <a href="https://youtu.be/4e-VvuSViiA?si=1uAOAxamUF-M-06_" target="_blank" rel="noopener noreferrer">▶️</a>
 
 ---
 
