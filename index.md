@@ -55,7 +55,7 @@
 - [Що провину може змить (Е) ЖЧ](#shcho-provynu-mozhe) <a href="https://youtu.be/0_tZNZeNM2Q?si=W0ezS8VgauW7zFTq" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Я благословлю Господа (Em) Ж](#ya-blahoslovlyu-hospoda) <a href="https://youtu.be/D-Gc1d59pwA?si=IZ9Z-S7FK2yypSui" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Я буду радіти (Em) ЖЧ](#ya-budu-radity) <a href="https://youtu.be/7kqaYVU60c8?si=nuIO9LyXX5gSRSYf" target="_blank" rel="noopener noreferrer">▶️</a>
-- [Яхве (А#m) Ж](#yakhve) <a href="https://youtu.be/iTM-FdvXHKE?si=m4AKvOE_Y8-hi2bR" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Яхве (А) Ж](#yakhve) <a href="https://youtu.be/iTM-FdvXHKE?si=m4AKvOE_Y8-hi2bR" target="_blank" rel="noopener noreferrer">▶️</a>
 
 ### Хвала
 
@@ -697,7 +697,7 @@ _Приспів:_
 
 ---
 
-## <a id="yakhve"></a>**Яхве (А#m)** <a href="https://youtu.be/iTM-FdvXHKE?si=m4AKvOE_Y8-hi2bR" target="_blank" rel="noopener noreferrer">▶️</a>
+## <a id="yakhve"></a>**Яхве (А)** <a href="https://youtu.be/iTM-FdvXHKE?si=m4AKvOE_Y8-hi2bR" target="_blank" rel="noopener noreferrer">▶️</a>
 
 **Ти поруч, як вітер зійшов до нас**  
 **Щось велике робиш в цей час.**  
