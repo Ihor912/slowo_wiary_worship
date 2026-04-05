@@ -60,6 +60,7 @@
 ### Хвала
 
 - [Будь прославлений (А) Ч](#bud-proslavlenyy) <a href="https://youtu.be/a8JT87_wZaU?si=GzexhDtN9M41q_FM" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Будь прославлений, Господь (E)](#bud-proslavlenyy-hospod) <a href="https://www.youtube.com/watch?v=sX7Ds4wHOf8" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Бог прийшов померти за мій гріх (Dm) Ж](#boh-pryyshov-pomerty) <a href="https://youtu.be/O1HnN5Uu4rI?si=vuR3QdbfzftrHQok" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Великий Бог (А) Ч](#velykyy-boh) <a href="https://youtu.be/sFA4i4ZKLGo?si=NlgqbUxsbWGFk41b" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Вільний я (G)](#vilnyy-ya) <a href="https://www.youtube.com/watch?v=LM1qrx0Huds" target="_blank" rel="noopener noreferrer">▶️</a>
@@ -85,6 +86,7 @@
 - [Скоро скоро вже (E) Ж](#skoro-skoro-vzhe) <a href="https://youtu.be/YPT7JMaMWOc?si=3rfg4osHQ0OF5r-J" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Слав душа Господа (С) Ж](#slav-dusha-hospoda) <a href="https://youtu.be/SjZzcXIDZBY?si=7Ligmw1aWNFNVe7h" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Співаю Алілуя (D) Ж](#spivayu-aliluya) <a href="https://youtu.be/4joUCMN870s?si=y0afrSPPeTGCu6OH" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Там, де Дух Господній, там свобода (Em)](#tam-de-dukh-hospodniy-tam-svoboda) <a href="https://www.youtube.com/watch?v=dKxeZsZvp7E" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Ті хто з Богом ідуть (Em) Ч](#ti-khto-z-bohom) <a href="https://youtu.be/zE-2TA4q7LE?si=UXvxmTdZyx3GHUm5" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Хай буде ім'я Бога благословенне (?) ?](#khay-bude-imya-boha) <a href="https://youtu.be/YBRjv3afH4M?si=3FTSR99hMPLdBeZ6" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Цар воскреслий (G) Ж](#tsar-voskreslyy) <a href="https://youtu.be/yjd-JPvyzGE?si=ooa7HjKqgBWJDQqF" target="_blank" rel="noopener noreferrer">▶️</a>
@@ -1025,6 +1027,44 @@ _Міст:_
 
 ---
 
+## <a id="bud-proslavlenyy-hospod"></a>**Будь прославлений, Господь (E)** <a href="https://www.youtube.com/watch?v=sX7Ds4wHOf8" target="_blank" rel="noopener noreferrer">▶️</a>
+
+_1 Куплет:_  
+**Ти дав мені життя, проливши Свою кров.**  
+**Я в темряві блукав, а Ти мене знайшов.**  
+**Бо Ти один мій Цар,**  
+**І Ти один лиш вірний Бог.**
+
+**Ти шлях мені вказав, яким я маю йти.**  
+**Мене за руку взяв, Ти поруч назавжди.**  
+**Бо Ти один мій Цар,**  
+**І Ти один лиш вірний Бог.**
+
+_Приспів:_  
+**Будь прославлений Господь,**  
+**Будь прославлений Господь,**  
+**Кожне серце слав Його,**  
+**Він у всьому Цар всього.**
+
+_2 Куплет:_  
+**В молитві я схилюсь, Ти чуєш голос мій.**  
+**Віддам Тобі хвалу, відчую спокій Твій.**  
+**Бо Ти один мій Цар,**  
+**І Ти один лиш вірний.**
+
+**У всьому бачу я красу Твоїх думок.**  
+**Віддам Тобі життя, зроблю до Тебе крок.**  
+**Бо Ти один мій Цар,**  
+**І Ти один лиш вірний Бог.**
+
+_Брідж:_  
+**За Твою любов, за пролиту кров,**  
+**За життя нове славимо Тебе.**  
+**Смерть Ти подолав, нам спасіння дав,**  
+**Всемогутній Бог, Ти великий Цар.**
+
+---
+
 ## <a id="tvoya-lyubov-nemov"></a>**Твоя любов немов ріка (Е)** <a href="https://youtu.be/66CPCn89TNc?si=ZrvdMm_Jpg3Iq2T-" target="_blank" rel="noopener noreferrer">▶️</a>
 
 **Твоя любов, немов ріка,**  
@@ -1637,6 +1677,44 @@ _Міст:_
 **Гучно заспіваю (Зневіра тане наче сніг)!**  
 **Гучно заспіваю (Бо зброя - це хвала моя)!**  
 **Гучно заспіваю (За мене б'ються небеса)!**
+
+---
+
+## <a id="tam-de-dukh-hospodniy-tam-svoboda"></a>**Там, де Дух Господній, там свобода (Em)** <a href="https://www.youtube.com/watch?v=dKxeZsZvp7E" target="_blank" rel="noopener noreferrer">▶️</a>
+
+_1 Куплет:_  
+**Не бійся і вийди**  
+**У світло й життя.**  
+**Згадай, що ти вільний,**  
+**Кайданів нема.**
+
+_Перед-приспів:_  
+**Полинь ти у простір безмежний,**  
+**Чуєш, кличе Він.**  
+**Радій і співай ти щосили,**  
+**Бо радість Він дає.**
+
+_Приспів:_  
+**Там, де Дух Господній, там свобода!**  
+**Там свобода!**  
+**Там, де Дух Господній, там свобода!**  
+**Там свобода!**  
+**Ти вийди з пітьми, крок свій зроби,**  
+**В повну любов Його ввійди.**  
+**Там, де Дух Господній, там свобода.**  
+**Там є свобода!**
+
+_2 Куплет:_  
+**Він завжди чекає**  
+**На тебе, повір.**  
+**Він рани загоїть,**  
+**Тягар зніме твій.**
+
+_Брідж:_  
+**Упадуть ланцюги,**  
+**Лиш назви Його Ім'я.**  
+**Оживуть всі серця,**  
+**Лиш назви Його Ім'я.**
 
 ---
 
