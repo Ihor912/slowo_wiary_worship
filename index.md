@@ -62,6 +62,7 @@
 - [Будь прославлений (А) Ч](#bud-proslavlenyy) <a href="https://youtu.be/a8JT87_wZaU?si=GzexhDtN9M41q_FM" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Бог прийшов померти за мій гріх (Dm) Ж](#boh-pryyshov-pomerty) <a href="https://youtu.be/O1HnN5Uu4rI?si=vuR3QdbfzftrHQok" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Великий Бог (А) Ч](#velykyy-boh) <a href="https://youtu.be/sFA4i4ZKLGo?si=NlgqbUxsbWGFk41b" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Вільний я (G)](#vilnyy-ya) <a href="https://www.youtube.com/watch?v=LM1qrx0Huds" target="_blank" rel="noopener noreferrer">▶️</a>
 - [В імя Ісуса (D) Ж](#v-imya-isusa) <a href="https://youtu.be/TVsRM55_jsE?si=nJLATxTmVIJNTED5" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Вся хвала для Господа (F) ЖЧ](#vsya-khvala-dlya) <a href="https://youtu.be/QxBnEtQRjPs?si=DB0Zx2jE2TuN3Run" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Давайте візьмемось за руки (G) Ч](#davayte-vizmemos) <a href="https://youtu.be/2HtAS2rVK3Y?si=E2qIqrApgRZFxK-7" target="_blank" rel="noopener noreferrer">▶️</a>
@@ -1130,8 +1131,7 @@ _Міст:_
 **СПАСИТЕЛЬ — 4 Р. СИЛЬНИЙ, СИЛЬНИЙ,**  
 **БЛАГИЙ ВІН — 4 Р. СИЛЬНИЙ, СИЛЬНИЙ,**  
 **ЗАСТУПНИК — 4 Р. СИЛЬНИЙ, СИЛЬНИЙ,**  
-**МІЙ ПАСТИР — 4 Р. СИЛЬНИЙ, СИЛЬНИЙ.**  
-
+**МІЙ ПАСТИР — 4 Р. СИЛЬНИЙ, СИЛЬНИЙ.**
 
 ---
 
@@ -1695,10 +1695,10 @@ _Міст:_
 
 ---
 
-## <a id="v-imya-isusa"></a>**В імя Ісуса (D)** <a href="https://youtu.be/TVsRM55_jsE?si=nJLATxTmVIJNTED5" target="_blank" rel="noopener noreferrer">▶️</a> 
+## <a id="v-imya-isusa"></a>**В імя Ісуса (D)** <a href="https://youtu.be/TVsRM55_jsE?si=nJLATxTmVIJNTED5" target="_blank" rel="noopener noreferrer">▶️</a>
 
 1 куплет:  
-Бoг зa нac вoює нa нaшiй cтopoнi, 
+Бoг зa нac вoює нa нaшiй cтopoнi,
 Вiн є Пepeмoжeць, Вiн вce пepeмiг,
 Я нe пocopoмлюcь, я нe пoxитнуcь,
 Сaм Icуc є тут.
@@ -1722,8 +1722,54 @@ Iмeнeм cвoїм!
 Бридж:  
 Бoг зa нac вoює, тeмpяву pуйнує,
 Свiтлoм cвoгo cлoвa в cepцi в нac пaнує,
-В iмeнi Icуca - нaшa пepeмoгa, 
+В iмeнi Icуca - нaшa пepeмoгa,
 Слaв Йoгo iм’я, cлaв Йoгo!
+
+---
+
+## <a id="vilnyy-ya"></a>**Вільний я (G)** <a href="https://www.youtube.com/watch?v=LM1qrx0Huds" target="_blank" rel="noopener noreferrer">▶️</a>
+
+**Я уночі блукав,**  
+**Прихистку я шукав,**  
+**Себе загнав, безсилий став.**  
+**Силу шукав в собі,**  
+**Змучився в боротьбі**  
+**І плив повільно по течії.**
+
+_Перед-приспів:_  
+**Як боротьбу я припинив -**  
+**Ісус Христос мене зустрів,**  
+**Сказав мені, що не самотній я.**
+
+_Приспів:_  
+**Ти долю так змінив мою!**  
+**На скелі я тепер стою!**  
+**Тобі я вдячний,**  
+**Господь – Спаситель.**  
+**Бо Ти зцілив мене, змінив мене,**  
+**Навіки вільний я тепер.**  
+**Тобі я вдячний,**  
+**Господь – Спаситель,**  
+**Ти – мій Бог.**
+
+**Я вільний у Боже Ім'я,**  
+**В це вірити буду я.**  
+**Мій сумнів згинув,**  
+**Розвіявся, мов дим.**  
+**Старим своїм приятелям –**  
+**Смуткам і тягарам**  
+**Скажу: "Не знаю я вас!**  
+**Пройшов назавжди ваш час!"**
+
+_Перед-приспів:_  
+**Співатиму про Тебе я**  
+**До дня, як буду в небесах.**  
+**Цей блудний син**  
+**Знайшов додому шлях.**
+
+_Міст:_  
+**Пекло мене втратило!**  
+**Вільний я! Вільний я! Вільний я!**
 
 ---
 
