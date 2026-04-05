@@ -36,6 +36,7 @@
 - [Отче наш Сущий на небесах (Dm) Ж](#otche-nash-sushchyy) <a href="https://youtu.be/4bDzRq67aD8?si=4kSqybaUTuBSu3Bl" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Отче наш, що живеш на небі (Hm) Ж](#otche-nash-shcho-zhyvesh) <a href="https://youtu.be/mFQ63hHiijk?si=p0OSLUzRzD5q4Ye1" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Очисти мене (Hm) Ж](#ochysty-mene) <a href="https://youtu.be/-X52AO5WRhc?si=W3NrT9Og5kcYVtcU" target="_blank" rel="noopener noreferrer">▶️</a>
+- [Понад всю силу (G)](#ponad-vsyu-sylu) <a href="https://www.youtube.com/watch?v=zbvvVwQcbus" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Поринаю я в океан Святого духа (F#m) Ж](#porynayu-ya-v-okean) <a href="https://youtu.be/0hj5uKPWPh4?si=Jfk9jB3Irj85XGU5" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Провадиш (D) Ж](#provadysh) <a href="https://youtu.be/LTmYzIBiPs8?si=1cxV8uvWg3hXVaTw" target="_blank" rel="noopener noreferrer">▶️</a>
 - [Псалом 46 (?) ?](#psalm-46) <a href="https://youtu.be/nveRNAkRvEI?si=LX4fOyqkwvkDk1Uk" target="_blank" rel="noopener noreferrer">▶️</a>
@@ -1090,6 +1091,27 @@ _Приспів:_
 **Нехай твій Дух Святий зійде**  
 **Віддам Тобі життя своє,**  
 **Прославлю я Тебе.**
+
+---
+
+## <a id="ponad-vsyu-sylu"></a>**Понад всю силу (G)** <a href="https://www.youtube.com/watch?v=zbvvVwQcbus" target="_blank" rel="noopener noreferrer">▶️</a>
+
+**Понад всю силу, над всіх царів,**  
+**Понад природу і все, що Бог створив,**  
+**Понад всю мудрість і всі шляхи людські,**  
+**Ісус був тут до створення нас всіх.**
+
+**Понад всі царства, престоли всі,**  
+**Над чудеса всі, що світ побачив їх,**  
+**Над всі джерела і цінності землі,**  
+**Не вимірять творінь Його усіх.**
+
+_Приспів:_  
+**Розп'ятим був, лежав в могилі Він,**  
+**Щоб вмерти - жив, за словом Він воскрес,**  
+**Як і всі, ходив Він по землі,**  
+**Він взяв наш гріх, Він нас звільнив,**  
+**Він - над усе.**
 
 ---
 
