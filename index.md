@@ -1901,7 +1901,7 @@ _Міст:_
 
 ---
 
-## <a id="hidnyy-slavy-ty"></a>**Гідний слави Ти, Ісус (G)** <a href="https://www.youtube.com/watch?v=bXCDSQ7H0tY&list=RDbXCDSQ7H0tY" target="_blank" rel="noopener noreferrer">▶️</a>
+## <a id="hidnyy-slavy-ty"></a>**Гідний слави Ти, Ісус (D)** <a href="https://www.youtube.com/watch?v=bXCDSQ7H0tY&list=RDbXCDSQ7H0tY" target="_blank" rel="noopener noreferrer">▶️</a>
 
 **За мене хрест поніс**  
 **І прийняв смерть, щоби жив я в свободі**  
