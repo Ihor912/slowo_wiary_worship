@@ -67,7 +67,8 @@
 58. [Що провину може змить (Е) ЖЧ](#shcho-provynu-mozhe) <a href="https://youtu.be/0_tZNZeNM2Q?si=W0ezS8VgauW7zFTq" target="_blank" rel="noopener noreferrer">▶️</a>
 59. [Я благословлю Господа (Em) Ж](#ya-blahoslovlyu-hospoda) <a href="https://youtu.be/D-Gc1d59pwA?si=IZ9Z-S7FK2yypSui" target="_blank" rel="noopener noreferrer">▶️</a>
 60. [Я буду радіти (Em) ЖЧ](#ya-budu-radity) <a href="https://youtu.be/7kqaYVU60c8?si=nuIO9LyXX5gSRSYf" target="_blank" rel="noopener noreferrer">▶️</a>
-61. [Яхве (А) Ж](#yakhve) <a href="https://youtu.be/iTM-FdvXHKE?si=m4AKvOE_Y8-hi2bR" target="_blank" rel="noopener noreferrer">▶️</a>
+61. [Я переможу (Hm)](#ya-peremozhu) <a href="https://www.youtube.com/watch?v=YNd-PbVhnvA&list=RDYNd-PbVhnvA&start_radio=1" target="_blank" rel="noopener noreferrer">▶️</a>
+62. [Яхве (А) Ж](#yakhve) <a href="https://youtu.be/iTM-FdvXHKE?si=m4AKvOE_Y8-hi2bR" target="_blank" rel="noopener noreferrer">▶️</a>
 
 ### Шкидкі
 
@@ -2399,6 +2400,37 @@ _Приспів:_
 **Лиш на кров Христа Ісуса.**  
 **Визволяюсь від спокус**  
 **Тільки через кров Ісуса.**
+
+---
+
+## <a id="ya-peremozhu"></a>**Я переможу (Hm)** <a href="https://www.youtube.com/watch?v=YNd-PbVhnvA&list=RDYNd-PbVhnvA&start_radio=1" target="_blank" rel="noopener noreferrer">▶️</a>
+
+_1 куплет:_  
+**Впаде вся зброя, що є проти мене**  
+**Зникне морок, темрява піде**  
+**Бог, Якому я служу - перемагає**  
+**Мій Бог не підведе**  
+**О, мій Бог не підведе**
+
+_Приспів:_  
+**Я переможу, Господи!**  
+**Я переможу, Господи!**  
+**Бо ця битва належить Тобі!**  
+**Я переможу, Господи!**  
+**Я переможу, Господи!**  
+**Бо ця битва належить Тобі!**
+
+_2 куплет:_  
+**Могутня сила в Імені Ісуса**  
+**У двобої виграє Творець**  
+**З велетнем зійдусь сміливо в битві**  
+**Знаю битви цієї кінець!**  
+**Знаю битви цієї кінець!**
+
+_Міст:_  
+**Візьми задум ворога, що на зло**  
+**І зміни на добро!**  
+**Зміни на добро!**
 
 ---
 
