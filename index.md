@@ -22,7 +22,7 @@
 13. [Дивні та великі діла Твої (Dm) Ж](#dyvni-ta-velyky) <a href="https://youtu.be/PvCAhEpo2GQ?si=JXfes4FARvhbyJyJ" target="_blank" rel="noopener noreferrer">▶️</a>
 14. [Достойний (Em ?) Ж](#dostoyniy) <a href="https://youtu.be/9I3VcyWIYM4?si=EdxEe2jsC34oba21" target="_blank" rel="noopener noreferrer">▶️</a>
 15. [Достойний Ти хвали (Е) Ж](#dostoyniy-ty-khvaly) <a href="https://youtu.be/-hLIOlUt7rQ?si=vnEdVOFi_qR3V9YX" target="_blank" rel="noopener noreferrer">▶️</a><a href="https://youtu.be/AIGV3ms_9eM?si=-6qlRkdiQEMnZG9_" target="_blank" rel="noopener noreferrer">▶️</a>
-16. [Єдинородний Син (C)](#yedynorodnyy-syn) <a href="https://www.youtube.com/watch?v=-hQKiAWEDng" target="_blank" rel="noopener noreferrer">▶️</a>
+16. [Єдинородний Син (C) Ч](#yedynorodnyy-syn) <a href="https://www.youtube.com/watch?v=-hQKiAWEDng" target="_blank" rel="noopener noreferrer">▶️</a>
 17. [Єшуа (?) ?](#yeshua) <a href="https://youtu.be/FsbC1eTWJpM?si=k0E8_zDQsTPcYrYX" target="_blank" rel="noopener noreferrer">▶️</a>
 18. [Ісус Ти переміг (А) Ч](#isus-ty-peremih) <a href="https://youtu.be/AOp4a5s0Ppg?si=ECAgiZsgFxB6qBkO" target="_blank" rel="noopener noreferrer">▶️</a>
 19. [Ісусе Спаситель (С) ЖЧ](#isuse-spasytel) <a href="https://youtu.be/5_aIauL2xKA?si=RFs3cTck56c5I_0T" target="_blank" rel="noopener noreferrer">▶️</a>
@@ -49,7 +49,7 @@
 40. [Псалом 46 (?) ?](#psalm-46) <a href="https://youtu.be/nveRNAkRvEI?si=LX4fOyqkwvkDk1Uk" target="_blank" rel="noopener noreferrer">▶️</a>
 41. [Свіжий вітер (D) Ж](#vitru-shum) <a href="https://www.youtube.com/watch?v=TcLVeDpfjqs&list=RDTcLVeDpfjqs" target="_blank" rel="noopener noreferrer">▶️</a>
 42. [Святий навіки (G) Ж](#sviatyy-naviky) <a href="https://youtu.be/vQJUWKxYuUU?si=eoeo29_NIsTHShei" target="_blank" rel="noopener noreferrer">▶️</a>
-43. [Скажу Ісус (E)](#skazhu-isus) <a href="https://youtu.be/1VskqDrcvD0?si=JOK4QNDLHBfzVf07" target="_blank" rel="noopener noreferrer">▶️</a>
+43. [Скажу Ісус (E) ЖЧ](#skazhu-isus) <a href="https://youtu.be/1VskqDrcvD0?si=JOK4QNDLHBfzVf07" target="_blank" rel="noopener noreferrer">▶️</a>
 44. [Слав душа Господа (С) Ж](#slav-dusha-hospoda) <a href="https://youtu.be/SjZzcXIDZBY?si=7Ligmw1aWNFNVe7h" target="_blank" rel="noopener noreferrer">▶️</a>
 45. [Співаю Алілуя (D) Ж](#spivayu-aliluya) <a href="https://youtu.be/4joUCMN870s?si=y0afrSPPeTGCu6OH" target="_blank" rel="noopener noreferrer">▶️</a>
 46. [Такий великий Бог (F#m) Ж](#takyy-velykyy-boh) <a href="https://youtu.be/02kXZIynlvc?si=mQjveRT681xf9ELH" target="_blank" rel="noopener noreferrer">▶️</a>
