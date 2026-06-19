@@ -33,7 +33,7 @@
 24. [Ми прийшли сьогодні у святий Твій дім (D) ЖЧ](#my-pryyshly-sohodni) <a href="https://youtu.be/V-P96eQMjSA?si=oEAtfq0txX9UzKHu" target="_blank" rel="noopener noreferrer">▶️</a>
 25. [Мій Бог моя надія (F) Ч](#miy-boh-moya-nadiya) <a href="https://youtu.be/DwmjxVEXpLE?si=lUtzUmSmeKvzpwui" target="_blank" rel="noopener noreferrer">▶️</a>
 26. [Муж скорбот (Em) Ч](#muzh-skorbot) <a href="https://youtu.be/byNV2gGCqP8?si=tTheUSW-JK2FGjJ9" target="_blank" rel="noopener noreferrer">▶️</a>
-27. [На троні слави (F) Ч](#na-troni-slavy) <a href="https://youtu.be/RhWT8zpj64k?si=uwQA83g9m8KuGlof" target="_blank" rel="noopener noreferrer">▶️</a>
+27. [На троні слави (C) Ч](#na-troni-slavy) <a href="https://youtu.be/RhWT8zpj64k?si=uwQA83g9m8KuGlof" target="_blank" rel="noopener noreferrer">▶️</a>
 28. [Нагороди (?) ?](#nahorody) <a href="https://youtu.be/1xTXIOGWFFw?si=Pqwn0j2b2vSfL40f" target="_blank" rel="noopener noreferrer">▶️</a>
 29. [Одного прошу (А або H) Ч](#odnoho-proshu) <a href="https://youtu.be/LMQMssdKjEw?si=Ag1BRsk_EmpilC7E" target="_blank" rel="noopener noreferrer">▶️</a>
 30. [Океани (Hm) Ж](#okeany) <a href="https://youtu.be/OP-00EwLdiU?si=fgUNH-ylkSaI8ahN" target="_blank" rel="noopener noreferrer">▶️</a>
@@ -1327,7 +1327,7 @@ _Міст:_
 
 ---
 
-## <a id="na-troni-slavy"></a>**На троні слави (F)** <a href="https://youtu.be/RhWT8zpj64k?si=uwQA83g9m8KuGlof" target="_blank" rel="noopener noreferrer">▶️</a>
+## <a id="na-troni-slavy"></a>**На троні слави (C)** <a href="https://youtu.be/RhWT8zpj64k?si=uwQA83g9m8KuGlof" target="_blank" rel="noopener noreferrer">▶️</a>
 
 **Співаєм пісню ми**  
 **Якій нема кінця**  
