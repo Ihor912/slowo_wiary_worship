@@ -23,7 +23,7 @@
 14. [Господь, я славлю Тебе (Em) ЖЧ](#hospod-ya-slavlyu) <a href="https://youtu.be/IDstAlPvv6A?si=wFUeNm-w2amcPxhe" target="_blank" rel="noopener noreferrer">▶️</a>
 15. [Давайте візьмемось за руки (G) Ч](#davayte-vizmemos) <a href="https://youtu.be/2HtAS2rVK3Y?si=E2qIqrApgRZFxK-7" target="_blank" rel="noopener noreferrer">▶️</a>
 16. [Дивні та великі діла Твої (Dm) Ж](#dyvni-ta-velyky) <a href="https://youtu.be/PvCAhEpo2GQ?si=JXfes4FARvhbyJyJ" target="_blank" rel="noopener noreferrer">▶️</a>
-17. [Достойний (Em ?) Ж](#dostoyniy) <a href="https://youtu.be/9I3VcyWIYM4?si=EdxEe2jsC34oba21" target="_blank" rel="noopener noreferrer">▶️</a>
+17. [Достойний (Em) Ж](#dostoyniy) <a href="https://youtu.be/9I3VcyWIYM4?si=EdxEe2jsC34oba21" target="_blank" rel="noopener noreferrer">▶️</a>
 18. [Достойний Ти хвали (Е) Ж](#dostoyniy-ty-khvaly) <a href="https://youtu.be/-hLIOlUt7rQ?si=vnEdVOFi_qR3V9YX" target="_blank" rel="noopener noreferrer">▶️</a><a href="https://youtu.be/AIGV3ms_9eM?si=-6qlRkdiQEMnZG9_" target="_blank" rel="noopener noreferrer">▶️</a>
 19. [Єдинородний Син (C) Ч](#yedynorodnyy-syn) <a href="https://www.youtube.com/watch?v=-hQKiAWEDng" target="_blank" rel="noopener noreferrer">▶️</a>
 20. [Єшуа (Em) ЖЧ](#yeshua) <a href="https://youtu.be/FsbC1eTWJpM?si=k0E8_zDQsTPcYrYX" target="_blank" rel="noopener noreferrer">▶️</a>
@@ -37,7 +37,7 @@
 28. [Мій Бог моя надія (F) Ч](#miy-boh-moya-nadiya) <a href="https://youtu.be/DwmjxVEXpLE?si=lUtzUmSmeKvzpwui" target="_blank" rel="noopener noreferrer">▶️</a>
 29. [Муж скорбот (Em) Ч](#muzh-skorbot) <a href="https://youtu.be/byNV2gGCqP8?si=tTheUSW-JK2FGjJ9" target="_blank" rel="noopener noreferrer">▶️</a>
 30. [На троні слави (C) Ч](#na-troni-slavy) <a href="https://youtu.be/RhWT8zpj64k?si=uwQA83g9m8KuGlof" target="_blank" rel="noopener noreferrer">▶️</a>
-31. [Нагороди (?) ?](#nahorody) <a href="https://youtu.be/1xTXIOGWFFw?si=Pqwn0j2b2vSfL40f" target="_blank" rel="noopener noreferrer">▶️</a>
+31. [Нагороди (D) Ж](#nahorody) <a href="https://youtu.be/1xTXIOGWFFw?si=Pqwn0j2b2vSfL40f" target="_blank" rel="noopener noreferrer">▶️</a>
 32. [Одного прошу (А або H) Ч](#odnoho-proshu) <a href="https://youtu.be/LMQMssdKjEw?si=Ag1BRsk_EmpilC7E" target="_blank" rel="noopener noreferrer">▶️</a>
 33. [Океани (Hm) Ж](#okeany) <a href="https://youtu.be/OP-00EwLdiU?si=fgUNH-ylkSaI8ahN" target="_blank" rel="noopener noreferrer">▶️</a>
 34. [Осанна (C#m) Ж](#osanna) <a href="https://youtu.be/qke8fgYdHuU?si=BCQK0klrXnA7Z3Dd" target="_blank" rel="noopener noreferrer">▶️</a>
@@ -100,7 +100,7 @@
 21. [Ти Господь всього (A) Ч](#ty-hospod-vsoho) <a href="https://www.youtube.com/watch?v=Dq-T2E6jS-c&list=RDDq-T2E6jS-c&start_radio=1" target="_blank" rel="noopener noreferrer">▶️</a>
 22. [Ти записав моє ім'я (F) Ч](#ty-zapysav-moye-imya) <a href="https://www.youtube.com/watch?v=7qLMDZzG4l8" target="_blank" rel="noopener noreferrer">▶️</a>
 23. [Ті хто з Богом ідуть (Em) Ч](#ti-khto-z-bohom) <a href="https://youtu.be/zE-2TA4q7LE?si=UXvxmTdZyx3GHUm5" target="_blank" rel="noopener noreferrer">▶️</a>
-24. [Хай буде ім'я Бога благословенне (?) ?](#khay-bude-imya-boha) <a href="https://youtu.be/YBRjv3afH4M?si=3FTSR99hMPLdBeZ6" target="_blank" rel="noopener noreferrer">▶️</a>
+24. [Хай буде ім'я Бога благословенне (Em) Ж](#khay-bude-imya-boha) <a href="https://youtu.be/YBRjv3afH4M?si=3FTSR99hMPLdBeZ6" target="_blank" rel="noopener noreferrer">▶️</a>
 25. [Цар воскреслий (G) Ж](#tsar-voskreslyy) <a href="https://youtu.be/yjd-JPvyzGE?si=ooa7HjKqgBWJDQqF" target="_blank" rel="noopener noreferrer">▶️</a>
 26. [Чудова благодать (D) Ж](#chudova-blahodat) <a href="https://youtu.be/4e-VvuSViiA?si=1uAOAxamUF-M-06_" target="_blank" rel="noopener noreferrer">▶️</a>
 
@@ -888,7 +888,7 @@ _Міст:_
 
 ---
 
-## <a id="dostoyniy"></a>**Достойний (незрівнянний, всемогутній) (Em ?)** <a href="https://youtu.be/9I3VcyWIYM4?si=EdxEe2jsC34oba21" target="_blank" rel="noopener noreferrer">▶️</a>
+## <a id="dostoyniy"></a>**Достойний (незрівнянний, всемогутній) (Em)** <a href="https://youtu.be/9I3VcyWIYM4?si=EdxEe2jsC34oba21" target="_blank" rel="noopener noreferrer">▶️</a>
 
 **Достойний, Достойний**  
 **Достойний слави і хвали**  
@@ -1014,7 +1014,7 @@ _Міст:_
 
 ---
 
-## <a id="khay-bude-imya-boha"></a>**Хай буде ім'я Бога благословенне (?)** <a href="https://youtu.be/YBRjv3afH4M?si=3FTSR99hMPLdBeZ6" target="_blank" rel="noopener noreferrer">▶️</a>
+## <a id="khay-bude-imya-boha"></a>**Хай буде ім'я Бога благословенне (Em)** <a href="https://youtu.be/YBRjv3afH4M?si=3FTSR99hMPLdBeZ6" target="_blank" rel="noopener noreferrer">▶️</a>
 
 **Хай буде Ім'я Бога благословенне!**  
 **Хай буде Ім'я Бога благословенне**  
@@ -2557,7 +2557,7 @@ _Куплет:_ _/ х2_
 
 ---
 
-## <a id="nahorody"></a>**Нагороди (?)** <a href="https://youtu.be/1xTXIOGWFFw?si=Pqwn0j2b2vSfL40f" target="_blank" rel="noopener noreferrer">▶️</a>
+## <a id="nahorody"></a>**Нагороди (D)** <a href="https://youtu.be/1xTXIOGWFFw?si=Pqwn0j2b2vSfL40f" target="_blank" rel="noopener noreferrer">▶️</a>
 
 **Нагороди і вінці свої віддам**  
 **Всі заслуги і хвалу кладу до ніг Твоїх**  
